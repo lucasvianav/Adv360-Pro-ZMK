@@ -1,3 +1,8 @@
+<img width="1409" height="584" alt="image" src="https://github.com/user-attachments/assets/222a2eed-7198-47e6-8b36-e635d95b3e13" />
+<img width="1416" height="584" alt="image" src="https://github.com/user-attachments/assets/f4cd5538-3cc7-4547-b402-2d6ff338fcd1" />
+<img width="1369" height="578" alt="image" src="https://github.com/user-attachments/assets/06993526-d821-4b64-8cb3-b0e500addaca" />
+
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
